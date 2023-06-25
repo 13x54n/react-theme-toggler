@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.app__container{
+    padding: 30px 3vw;
+    width: 100vw;
+    height: 100vh;
+}
+.app__container.light{
+    background-color: #fff;
+}
+
+.app__container.dark{
+    background-color: #000;
+    color: #fff;
+}
